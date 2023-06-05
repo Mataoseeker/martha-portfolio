@@ -34,7 +34,7 @@ const Projects = () => {
         <div className=" border card border-slate-900 rounded-lg hover:shadow-lg">
            <img src={pic} alt="examination" className="w-auto md:h-72 rounded-t-lg object-cover" />
          
-            <div className="m-4 text-center font-serif  text-gray-900">
+            <div className="m-4 text-center  font-serif  text-white">
                 <span className="font-bold text-xl "> Altschool React Examination </span>
             <span className="block  text-lg">A simple React website that implements Router, Nested Routes, Context Api...
             </span>
@@ -50,7 +50,7 @@ const Projects = () => {
             
            <img src={pic2} alt="recipe" className="w-full md:h-72 object-cover rounded-t-lg" />
            
-           <div className="m-4 text-center font-serif text-gray-900">
+           <div className="m-4 text-center font-serif text-white">
                 <span className="font-bold text-xl "> Nigho Food Recipes </span>
             <span className="block  text-lg">A simple website that contains different food Recipes.
             </span>
@@ -71,7 +71,7 @@ const Projects = () => {
         <div className=" border border-slate-900 rounded-lg hover:shadow-lg">
         <img src={pic3} alt="excuse-app" className="w-full md:h-72 object-cover rounded-t-lg" />
            
-           <div className="m-4 text-center font-serif text-gray-900">
+           <div className="m-4 text-center font-serif text-white">
                 <span className="font-bold text-xl "> An Excuse App </span>
             <span className="block  text-lg">A simple webpage that uses an API to fetch excuses
             for different occasions. 
@@ -93,7 +93,7 @@ const Projects = () => {
         <div className=" border border-slate-900 rounded-lg hover:shadow-lg">
         <img src={pic4} alt="to-do-list" className="w-full h-72 object-cover rounded-t-lg" />
            
-           <div className="m-4 text-center font-serif text-gray-900">
+           <div className="m-4 text-center font-serif text-white">
                 <span className="font-bold text-xl ">  To Do List App </span>
             <span className="block  text-lg">A simple webpage that allows users input different tasks for the day.
             </span>
@@ -116,7 +116,7 @@ const Projects = () => {
             
             <img src={pic5} alt="my-portfolio" className="w-full md:h-72 object-cover rounded-t-lg" />
             
-            <div className="m-4 text-center font-serif text-gray-900">
+            <div className="m-4 text-center font-serif text-white">
                  <span className="font-bold text-xl "> My Portfolio Website </span>
              <span className="block  text-lg">My Portfolio website that contains details about me <br /> and my projects so far.
              </span>
@@ -137,7 +137,7 @@ const Projects = () => {
             
             <img src={pic6} alt="sign in" className="w-full md:h-72 object-cover rounded-t-lg" />
             
-            <div className="m-4 text-center font-serif text-gray-900">
+            <div className="m-4 text-center font-serif text-white">
                  <span className="font-bold text-xl "> Sign In / Sign Up Page </span>
              <span className="block  text-lg">  
              </span>
@@ -157,7 +157,7 @@ const Projects = () => {
             
            <img src={counter} alt="recipe" className="w-full md:h-72 object-cover rounded-t-lg" />
            
-           <div className="m-4 text-center font-serif text-gray-900">
+           <div className="m-4 text-center font-serif text-white">
                 <span className="font-bold text-xl "> Counter App </span>
             <span className="block  text-lg">A simple counter App that increments,
 decrements, resets and you can also set a value
@@ -180,7 +180,7 @@ for the counter.
             
            <img src={note} alt="recipe" className="w-full md:h-72 object-cover  rounded-t-lg" />
            
-           <div className="m-4 text-center font-serif text-gray-900">
+           <div className="m-4 text-center font-serif text-white">
                 <span className="font-bold text-xl "> Note App </span>
             <span className="block  text-lg">A simple Note App that takes account of things to do
             </span>
@@ -202,7 +202,7 @@ for the counter.
             
             <img src={quiz} alt="recipe" className="w-full md:h-72 object-cover  rounded-t-lg" />
             
-            <div className="m-4 text-center font-serif text-gray-900">
+            <div className="m-4 text-center font-serif text-white">
                  <span className="font-bold text-xl "> Quiz App </span>
              <span className="block  text-lg">A simple Quiz App that asks questions about me and displays the score at the end. It also indicates whether you are right or wrong after each answer chosen.
              </span>

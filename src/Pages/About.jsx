@@ -34,18 +34,33 @@ const About = () => {
                         <p className="text-slate-300 text-center text-2xl">Here are a list of tools that i have worked with:</p>
                         <p className="text-slate-300 text-center col-span-3  card  md:grid md:mt-10 grid-cols-3 mt-8 text-2xl">     
                                 
-                                {/* <img src= {require ("./images/html.png")}  className="ml-36 w-20 m-5 md:w-20 border rounded-full " alt="my face"/>
+                                <div className=" flex justify-center ">
+                                <div className="text-slate-300 text-center  m-2 text-xl"><button
+                                className="bg-slate-600 p-2 border-none rounded-full">HTML</button></div>
+                                <div className="text-slate-300 text-center m-2 text-xl"><button
+                                className="bg-slate-600 p-2 border-none rounded-full">CSS</button></div>
+                                <div className="text-slate-300 text-center m-2 text-xl"><button
+                                className="bg-slate-600 p-2 border-none rounded-full">JavaScript</button></div>
+                                </div>
                                 
-                                <img src= {require ("./images/css.png")}  className="ml-36 w-20 m-5 md:w-20 border rounded-full " alt="my face"/>
+                                
+                                
+                                <div className="flex justify-center">
+                                <div className="text-slate-300 text-center m-2 text-xl"><button
+                                className="bg-slate-600 p-2 border-none rounded-full">ReactJs</button>
+                                </div>
+                                <div className="text-slate-300 text-center m-2 text-xl"><button
+                                className="bg-slate-600 p-2 border-none rounded-full">Tailwind CSS</button>
+                                </div>
+                                 <div className="text-slate-300 text-center m-2 text-xl"><button className="bg-slate-600 p-2 border-none rounded-full">VueJs</button>
+                                 </div>
+                                </div>
+                                
                                
-                                <img src= {require ("./images/js.png")}  className="ml-36 w-20 m-5 md:w-20 border rounded-full " alt="my face"/>
 
-                                <img src= {require ("./images/react.png")}  className="ml-36 w-20 m-5 md:w-20 border rounded-full " alt="my face"/>
 
-                                <img src= {require ("./images/tailwind.jpg")}  className="ml-36 w-20 m-5 md:w-20 border rounded-full " alt="my face"/>
 
-                                <img src= {require ("./images/git.png")}  className="ml-36 w-20 m-5 md:w-20 border rounded-full " alt="my face"/> */}
-
+                        
                         </p>
                         </div>
                         </div>
