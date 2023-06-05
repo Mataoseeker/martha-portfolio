@@ -1,14 +1,14 @@
 import { Link } from "react-router-dom";
-
-const pic = new URL( "./images/img1.PNG", import.meta.url).href;
-const pic2 = new URL( "./images/img4.PNG", import.meta.url).href;
-const pic3 = new URL( "./images/img5.PNG", import.meta.url).href;
-const pic4 = new URL( "./images/img6.PNG", import.meta.url).href;
-const pic5 = new URL( "./images/img7.PNG", import.meta.url).href;
-const pic6 = new URL( "./images/img2.PNG", import.meta.url).href;
-const counter = new URL( "./images/counter.PNG", import.meta.url).href;
-const note = new URL( "./images/note.PNG", import.meta.url).href;
-const quiz = new URL( "./images/quiz.PNG", import.meta.url).href;
+// import pic from "./Images/img1.png"
+const pic = new URL( "./Images/img1.PNG", import.meta.url).href;
+const pic2 = new URL( "./Images/img4.PNG", import.meta.url).href;
+const pic3 = new URL( "./Images/img5.PNG", import.meta.url).href;
+const pic4 = new URL( "./Images/img6.PNG", import.meta.url).href;
+const pic5 = new URL( "./Images/img7.PNG", import.meta.url).href;
+const pic6 = new URL( "./Images/img2.PNG", import.meta.url).href;
+const counter = new URL( "./Images/counter.PNG", import.meta.url).href;
+const note = new URL( "./Images/note.PNG", import.meta.url).href;
+const quiz = new URL( "./Images/quiz.PNG", import.meta.url).href;
 
 const Projects = () => {
     return ( 
